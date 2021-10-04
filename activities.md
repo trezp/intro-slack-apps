@@ -6,7 +6,7 @@ Below are some suggestions for your quick Slack app. To get started:
 - modify the code 
 - refresh and test in Slack!
   
-### 1. Modify the Random Cat message in app.js respond to "dog please" and display random dogs
+### 1. Modify the Random Cat message in app.js respond to "dogs please" and display random dogs
 
 ### 2. Make an icebreaker: When someone types your name, use [Block Kit Builder](https://app.slack.com/block-kit-builder/) to create an introductory message with an image or giphy of you or something you like
 

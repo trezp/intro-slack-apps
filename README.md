@@ -4,14 +4,11 @@ Slack apps allow you to extend and customize your Slack workspaces with fun and 
 ## Agenda
 - Introduction to Slack apps 
 - A word about Slack dev environments
-- Walkthrough of example interactions
-- Quick overview of "Cat, Please" example Slack app 
 - Fun with Slack interactions
 
 ## In this workshop, you'll learn how to:  
 - Use Glitch as a Slack app dev environment
-- Use Bolt for JavaScript to listen for and respond to Slack messages 
-- Use Bolt for JavaScript to listen for and respond to button clicks 
+- Use Bolt for JavaScript to listen for and respond to Slack messages and button clicks  
 - Use Slack's Block Kit Builder to create snazzy UI elements 
 
 ## Prerequisites/Preparing for the Workshop  
@@ -21,8 +18,7 @@ and participate without an account, but having an account will prevent weirdness
 - Request to join [the Glitch project](https://glitch.com/edit/#!/intro-slack-apps) for the example Slack app dev environment. There
 should be a button in the top left corner reading `Request to Join Project`.
 - Remix (make a copy of) this Glitch project. 
-  - Click the "intro-slack-apps" menu in the top left corner, then `Remix Project`. You'll use a copy of the glitch project
-  play around with Slack app functionality. _Note: Your remix won't work quite yet. During the workshop I'll share some
+  - Click the "intro-slack-apps" menu in the top left corner, then `Remix Project`. _Note: Your remix won't work quite yet. During the workshop I'll share some
   Oauth keys that will grant you permission to interact with the Slack app._
 
 ### Backup, if Glitch is down 
@@ -58,11 +54,11 @@ npm start
 ```
 
 
-## Setting up a dev environment for Slack apps 
-- Create a dev Slack workspace
-- Create an app 
-- Give your app permission scopes 
-- Install it to a dev environment 
+## Every Slack app dev environment requires:  
+- A dev Slack workspace
+- A Slack app 
+- Corrent app permission scopes for the functionality you want
+- Something to serve the app, like Glitch or Node 
 
 
 ## Next Steps: Going Further with this example project 
