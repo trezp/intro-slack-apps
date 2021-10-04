@@ -3,8 +3,9 @@ Slack apps allow you to extend and customize your Slack workspaces with fun and 
 
 ## Agenda
 - Introduction to Slack apps 
-- A word about setting up a Slack dev environment 
-- Walkthrough of "Cat, Please" example Slack app 
+- A word about Slack dev environments
+- Walkthrough of example interactions
+- Quick overview of "Cat, Please" example Slack app 
 - Fun with Slack interactions
 
 ## In this workshop, you'll learn how to:  
